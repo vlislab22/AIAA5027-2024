@@ -27,12 +27,13 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |   |
 | 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |  (1) Presentation (2) Project meetings |
 | 19/2 | Learning methods in visual intelligence (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
-| 19/2 | Learning methods in visual intelligence ((Transfer learning, domain adaptation, self/semi-supervised learning)) |  (1) Presentation (2) Review due 18/2|
+| 19/2 | Learning methods in visual intelligence ((Transfer learning, domain adaptation, self/semi-supervised learning)) | (1) Quiz (2) Presentation (2) Review due 18/2
+|
 | 26/2  | Adversarial robustness in visual intelligence |   |
-| 26/2 | Adversarial robustness in visual intelligence |  (1) Presentation (2) Review due 25/2 |
+| 26/2 | Adversarial robustness in visual intelligence |  (1) Quiz (2) Presentation (3) review due 25/2 |
 | 4/3  |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
-| 4/3 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  |  (1) Quiz (2) Presentation (3) Review due 3/Mar 
-(4) Project proposal kick-off (one page) |
+| 4/3 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  | (1) Quiz (2) Presentation (3) Review due 3/Mar 
+(4) Project proposal kick-off (one-page) |
 | 11/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |   |
 | 11/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Quiz (2) Presentation (3) Review due 10/Mar |
 | 18/3 |Project mid-term presentation | |
@@ -49,7 +50,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 22/4 | Machine learning for 3D Data (III) - Neural rendering  |  |
 |  /4 | Machine learning for 3D Data (III) - Novel view synthesis  | (1)  Quiz  (2) Final project Q/A   
 | 29/4 |Project presentation and final paper submission |  |
-| 29/4 |Project presentation and final paper submission | Submission due 5/30  |
+| 29/4 |Project presentation and final paper submission | Submission due 8/5  |
 
 ---------------------------------------------------------------------------------
 ##  Reading list
