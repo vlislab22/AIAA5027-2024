@@ -27,8 +27,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |   |
 | 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |  (1) Presentation (2) Project meetings |
 | 19/2 | Learning methods in visual intelligence (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
-| 19/2 | Learning methods in visual intelligence ((Transfer learning, domain adaptation, self/semi-supervised learning)) | (1) Quiz (2) Presentation (2) Review due 18/2
-|
+| 19/2 | Learning methods in visual intelligence ((Transfer learning, domain adaptation, self/semi-supervised learning)) | (1) Quiz (2) Presentation (2) Review due 18/2|
 | 26/2  | Adversarial robustness in visual intelligence |   |
 | 26/2 | Adversarial robustness in visual intelligence |  (1) Quiz (2) Presentation (3) review due 25/2 |
 | 4/3  |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
