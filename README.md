@@ -1,5 +1,3 @@
-![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/b6dbc3ef-139c-47b0-8fdf-0f416ca58cba)![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/cd46212a-479d-418a-b150-6f1ad1ee4b35)![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/55e85ae9-07cf-4806-8a2d-83a985e7838e)![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/55fffdc7-142a-4b3f-859e-3e8c89c2e2a5)# AIAA 5027: Deep Learning for Visual Intelligence: Trends and Challenges (2023-2024 Spring)
-
 ## Course information
 
 * Instructor: [[WANG Lin]](https://vlislab22.github.io/vlislab/) (linwang@ust.hk)
