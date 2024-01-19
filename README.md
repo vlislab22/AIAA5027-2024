@@ -1,4 +1,4 @@
-![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/55fffdc7-142a-4b3f-859e-3e8c89c2e2a5)# AIAA 5027: Deep Learning for Visual Intelligence: Trends and Challenges (2023-2024 Spring)
+![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/b6dbc3ef-139c-47b0-8fdf-0f416ca58cba)![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/cd46212a-479d-418a-b150-6f1ad1ee4b35)![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/55e85ae9-07cf-4806-8a2d-83a985e7838e)![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/55fffdc7-142a-4b3f-859e-3e8c89c2e2a5)# AIAA 5027: Deep Learning for Visual Intelligence: Trends and Challenges (2023-2024 Spring)
 
 ## Course information
 
@@ -20,38 +20,38 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 ##  Tentative schedule
 | Dates | Topics | Active Learning |
 | --- | --- | --- |
-| 2/6 | Course introduction | |
-| 2/10 | Course introduction | Overview of visual intelligence |
-| 2/13 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics and Pytorch tuorial  |
-| 2/17 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics and Pytorch tuorial  |
-| 2/20 | DNN models in computer vision (VAE, GAN, Diffusion models) |   |
-| 2/24 | DNN models in computer vision (VAE, GAN, Diffusion models) |  (1) Persentation (2) Review due 2/26 (3) Project meetings |
-| 2/27 | Learning methods in computer vision (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
-| 3/3  | Learning methods in computer vision ((Transfer learning, domain adaptation, self/semi-supervised learning)) |  (1) Persentation (2) Review due 3/5  |
-| 3/6  |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
-| 3/10 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  |  (1) Persentation (2) Review due 3/12 (3) Project proposal kick-off (one page) |
-| 3/13 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |   |
-| 3/17 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Persentation (2) Review due 3/19 |
-| 3/20 |Deep learning for scene understanding (I) Object detection & tracking |   |
-| 3/24 |Deep learning for scene understanding (I) Object detection & tracking | (1) Persentation (2) Review due 3/26  |
-| 3/27 |Project mid-term presentation | |
-| 3/31 |Project mid-term presentation | |
-| 4/3 |Deep learning for scene understanding (II) Semantic segmentation  |  |
-| 4/7 |Deep learning for scene understanding (II) Semantic segmentation  | (1) Persentation (2) Review due 4/12 |
-| 4/10 |Depth and motion estimation (SLAM)  | |
-| 4/14 |Depth and motion estimation (SLAM) | (1) Persenation (2) Review due 4/16 |
-| 4/17 |Computer vision with novel cameras (I) Event camera-based vision  |  |
-| 4/21 |Computer vision with novel cameras (I) Event camera-based vision  | (1) Persentation (2) Review due 4/19 |
-| 4/24 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  |  |
-| 4/28 |Computer vision with novel cameras (II) Thermal/360 camera-based vision  | (1) Persentation (2) Review due 4/16 (3) Project meetings |
-| 5/8  |Adversarial robustness in computer vision (Adversrial attack and defense) |  |
-| 5/12 |Adversarial robustness in computer vision (Adversrial attack and defense)| (1) Persentation (2) Review due 4/30 (3) Project meetings |
-| 5/19 |Project presentation and final paper submission |  |
-| 5/22 |Project presentation and final paper submission | Submission due 5/30  |
+| 22/1 | Course introduction | |
+| 22/1 | Course introduction | Overview of visual intelligence |
+| 29/1 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics, and PyTorch tutorial  |
+| 29/1 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics, and PyTorch tutorial  |
+| 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |   |
+| 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |  (1) Presentation (2) Project meetings |
+| 19/2 | Learning methods in visual intelligence (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
+| 19/2 | Learning methods in visual intelligence ((Transfer learning, domain adaptation, self/semi-supervised learning)) |  (1) Presentation (2) Review due 18/2|
+| 26/2  | Adversarial robustness in visual intelligence |   |
+| 26/2 | Adversarial robustness in visual intelligence |  (1) Presentation (2) Review due 25/2 |
+| 4/3  |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
+| 4/3 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  |  (1) Quiz (2) Presentation (3) Review due 3/Mar 
+(4) Project proposal kick-off (one page) |
+| 11/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |   |
+| 11/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Quiz (2) Presentation (3) Review due 10/Mar |
+| 18/3 |Project mid-term presentation | |
+| 18/3 |Project mid-term presentation | |
+| 25/3 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 24/3 |
+| 25/3 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 24/3  |
+| 1/4 |Computer vision with novel cameras   |  |
+| 1/4 |Computer vision with novel cameras | (1) Review due 31/3 |
+| 8/4 | Machine learning for 3D Data (I) Introduction to multi-view geometry   | |
+| 8/4 | Machine learning for 3D Data  |(1) Quiz (2) Presentation (3) review due 7/4 |
+| 15/4 | Machine learning for 3D Data (II) - Introduction to 3D deep learning
+   |  |
+| 15/4 | Machine learning for 3D Data (II) - Implicit/hybrid neural representation | (1) Quiz (2) Presentation (3) review due 14/Apr |
+| 22/4 | Machine learning for 3D Data (III) - Neural rendering  |  |
+|  /4 | Machine learning for 3D Data (III) - Novel view synthesis  | (1)  Quiz  (2) Final project Q/A   
+| 29/4 |Project presentation and final paper submission |  |
+| 29/4 |Project presentation and final paper submission | Submission due 5/30  |
 
 ---------------------------------------------------------------------------------
-| 5/12 |Potential and challenges in visual intelligence (data, computation, learning, sensor) (NeRF for 3D reconstruction) |  |
-| 5/15 |Potential and challenges in visual intelligence (data, computation, learning, sensor) (NeRF for 3D reconstruction)| (1) TA/Student lectures (2) final project Q/A  |
 ##  Reading list
 
 ### DNN models in computer vision (VAEs, GANs, Diffusion models)
