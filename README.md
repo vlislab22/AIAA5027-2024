@@ -3,12 +3,8 @@
 ## Course information
 
 * Instructor: [[WANG Lin]](https://vlislab22.github.io/vlislab/) (linwang@ust.hk)
-* TAs: Xu ZHENG (xzheng287@connect.hkust-gz.edu.cn![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/ab9afed7-10e6-45c3-ab84-cf42e7a52a9c)
-), Jinjing ZHU (jzhu706@connect.hkust-gz.edu.cn![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/618242c7-2259-4531-80d2-b4a74975149b)
-), Lutao JIANG (ljiang553@connect.hkust-gz.edu.cn![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/ef6774ad-f15e-4c2d-af78-84b93a7e1af2)
-) and Hao AI (hai033@connect.hkust-gz.edu.c![image](https://github.com/vlislab22/AIAA5027-2024/assets/118507195/fbd0f592-4f12-4828-ad0e-1ba877add026)
-)
-* Class time: Mon. 9.00-11.50AM
+* TAs: Xu ZHENG (xzheng287@connect.hkust-gz.edu.cn), Jinjing ZHU (jzhu706@connect.hkust-gz.edu.cn), Lutao JIANG (ljiang553@connect.hkust-gz.edu.cn) and Hao AI (hai033@connect.hkust-gz.edu.cn)
+* Class time: Mon. 9.00-11.50 AM
 * Office hours: BY appointment only.
 
 ## Course description
