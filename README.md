@@ -1,4 +1,4 @@
-AIAA 5027 Chasing Trends for Visual Intelligence: From Restoration to 3D Reconstruction
+# AIAA 5027 Chasing Trends for Visual Intelligence: From Restoration to 3D Reconstruction
 
 ## Course information
 
