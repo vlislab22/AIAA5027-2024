@@ -31,8 +31,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 26/2  | Adversarial robustness in visual intelligence |   |
 | 26/2 | Adversarial robustness in visual intelligence |  (1) Quiz (2) Presentation (3) review due 25/2 |
 | 4/3  |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
-| 4/3 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  | (1) Quiz (2) Presentation (3) Review due 3/Mar 
-(4) Project proposal kick-off (one-page) |
+| 4/3 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  | (1) Quiz (2) Presentation (3) Review due 3/Mar (4) Project proposal kick-off (one-page) |
 | 11/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |   |
 | 11/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Quiz (2) Presentation (3) Review due 10/Mar |
 | 18/3 |Project mid-term presentation | |
