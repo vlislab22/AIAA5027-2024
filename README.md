@@ -1,3 +1,5 @@
+AIAA 5027 Chasing Trends for Visual Intelligence: From Restoration to 3D Reconstruction
+
 ## Course information
 
 * Instructor: [[WANG Lin]](https://vlislab22.github.io/vlislab/) (linwang@ust.hk)
