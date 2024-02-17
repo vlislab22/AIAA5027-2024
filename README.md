@@ -2,7 +2,7 @@
 
 ## Course information
 
-* Instructor: [[WANG Lin]](https://vlislab22.github.io/vlislab/) (linwang@ust.hk)
+* Instructor: [[Addison L. Wang]](https://vlislab22.github.io/vlislab/) (linwang@ust.hk)
 * TAs: Xu ZHENG (xzheng287@connect.hkust-gz.edu.cn), Jinjing ZHU (jzhu706@connect.hkust-gz.edu.cn), Lutao JIANG (ljiang553@connect.hkust-gz.edu.cn) and Hao AI (hai033@connect.hkust-gz.edu.cn)
 * Class time: Mon. 9.00-11.50 AM
 * Office hours: BY appointment only.
@@ -17,6 +17,18 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 - Group project and paper submission (50%)
 - Attendance and quiz (10%)
 
+## Paper reading report  
+- [Canvas](https://hkust-gz.instructure.com/courses/798)
+- By Sunday 11.59 PM 
+
+## Paper presentation  
+- [Canvas](https://hkust-gz.instructure.com/courses/798) or Email to Addison L. Wang (linwang@ust.hk) for guidance 
+- By Thursday 11.59 PM
+  
+## Project submission 
+- [Openreview](https://openreview.net/)
+
+ 
 ##  Tentative schedule
 | Dates | Topics | Active Learning |
 | --- | --- | --- |
@@ -25,7 +37,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 29/1 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics, and PyTorch tutorial  |
 | 29/1 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics, and PyTorch tutorial  |
 | 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |   |
-| 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |  (1) Presentation (2) Project meetings |
+| 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |  (1) Quiz (2) Project meetings |
 | 19/2 | Learning methods in visual intelligence (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
 | 19/2 | Learning methods in visual intelligence ((Transfer learning, domain adaptation, self/semi-supervised learning)) | (1) Quiz (2) Presentation (2) Review due 18/2|
 | 26/2  | Adversarial robustness in visual intelligence |   |
@@ -53,7 +65,9 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 ---------------------------------------------------------------------------------
 ##  Reading list
 
-### DNN models in computer vision (VAEs, GANs, Diffusion models)
+### Lecture 3: Generative models (VAEs, GANs, Diffusion models) 
+
+### --- **papers covered by instructor** ---
 #### VAEs 
 [[Kingma and Welling 14]](https://arxiv.org/pdf/1312.6114v10.pdf) Auto-Encoding Variational Bayes, ICLR 2014. </br>
 [[Kingma et al. 15]](https://arxiv.org/pdf/1506.02557.pdf) Variational Dropout and the Local Reparameterization Trick, NIPS 2015.</br>
@@ -72,8 +86,15 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 [[Huang et al. 17]](https://arxiv.org/pdf/1703.06868.pdf) Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization, ICCV, 2017. </br>
 [[Huang et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Xun_Huang_Multimodal_Unsupervised_Image-to-image_ECCV_2018_paper.pdf)  Multimodal Unsupervised Image-to-Image Translation, ECCV, 2018. </br>
 
---- (**students' reading list**) ---
+#### DIffusion Model 
+[[Sohl-Dickstein et al., 2015]](https://arxiv.org/abs/1503.03585)  Deep Unsupervised Learning using Nonequilibrium Thermodynamics, ICML , 2015. </br>
+[[Song et al. 2019]](https://arxiv.org/pdf/1907.05600.pdf) Generative Modeling by Estimating Gradients of the Data Distribution, NeurIPS 2019.  </br>
+[[Ho et al. 21]](https://arxiv.org/abs/2006.11239) Denoising Diffusion Probabilistic Models (DDPM), ICLR, 2021. </br>
+[[Song et al. 21]](https://arxiv.org/pdf/2010.02502.pdf) Denoising Diffusion Implicit Models (DDIM), ICLR, 2021. </br>
 
+### --- **students' reading list** ---
+
+#### GAN-based papers 
 [[Brock et al. 19]](https://arxiv.org/pdf/1809.11096.pdf) Large Scale GAN Training for High-Fidelity Natural Image Synthesis, ICLR 2019. </br>
 [[Karras et al. 19] ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.pdf) A Style-Based Generator Architecture for Generative Adversarial Networks, CVPR 2019. </br>
 [[Karras et al. 20]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Karras_Analyzing_and_Improving_the_Image_Quality_of_StyleGAN_CVPR_2020_paper.pdf) Analyzing and Improving the Image Quality of StyleGAN, CVPR 2020. </br>
@@ -100,17 +121,12 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[He et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740626.pdf) PixelFolder: An Efficient Progressive Pixel Synthesis Network for Image Generation, ECCV, 2022.  </br>
 [[Yang et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750036.pdf) WaveGAN: Frequency-Aware GAN for High-Fidelity Few-Shot Image Generation, ECCV, 2022.  </br>
 [[Bai et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750036.pdf) High-fidelity GAN Inversion with Padding Space, ECCV, 2022.  </br>
+[[Sauer et al. 23]](https://proceedings.mlr.press/v202/sauer23a/sauer23a.pdf) StyleGAN-T: Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis, ICML, 2023.  </br>
+[[Kang et al. 23]](https://proceedings.mlr.press/v202/sauer23a/sauer23a.pdf) Scaling up gans for text-to-image synthesis Collapse, CVPR, 2023.  </br>
 
-#### DIffusion Model 
-[[Sohl-Dickstein et al., 2015]](https://arxiv.org/abs/1503.03585)  Deep Unsupervised Learning using Nonequilibrium Thermodynamics, ICML , 2015. </br>
-[[Song et al. 2019]](https://arxiv.org/pdf/1907.05600.pdf) Generative Modeling by Estimating Gradients of the Data Distribution, NeurIPS 2019.  </br>
-[[Ho et al. 21]](https://arxiv.org/abs/2006.11239) Denoising Diffusion Probabilistic Models (DDPM), ICLR, 2021. </br>
-[[Song et al. 21]](https://arxiv.org/pdf/2010.02502.pdf) Denoising Diffusion Implicit Models (DDIM), ICLR, 2021. </br>
-
---- (**students' reading list**) ---
+#### Diffusion-based papers 
 
 [[Bao et al. 22]](https://arxiv.org/abs/2201.06503) "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models, ICLR, 2022.  </br>
-[[Openreview]](https://openreview.net/pdf?id=lsQCDXjOl3k) "Unconditional Diffusion Guidance, Openreview, 2022. </br>
 [[Bao et al. 22]](https://arxiv.org/abs/2206.07309) Estimating the Optimal Covariance with Imperfect Mean in Diffusion Probabilistic Models, ICML 2022. </br>
 [[Dhariwal et al. 21]](https://arxiv.org/pdf/2105.05233.pdf) Diffusion Models Beat GANs on Image Synthesis, NIPS, 2021.   </br>
 [[Meng et al. 22]](https://openreview.net/forum?id=aBsCjcPu_tE) SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations, ICLR, 2022. </br>
@@ -118,8 +134,11 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Nichol et al. 21]](https://arxiv.org/abs/2102.09672) Improved Denoising Diffusion Probabilistic Models, ICML, 2021.   </br>
 [[Rombach et al. 22]](https://arxiv.org/abs/2112.10752) High-Resolution Image Synthesis with Latent Diffusion Models, CVPR, 2022.  </br>
 [[Ho et al. 21]](https://arxiv.org/pdf/2106.15282.pdf) Cascaded Diffusion Models for High Fidelity Image Generation, Arxiv, 2021. </br>
+[[Nair et al. 23]](https://openaccess.thecvf.com/content/ICCV2023/papers/Nair_Steered_Diffusion_A_Generalized_Framework_for_Plug-and-Play_Conditional_Image_Synthesis_ICCV_2023_paper.pdf) Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis, ICCV, 2023.  </br>
+[[Lu et al. 23]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_TF-ICON_Diffusion-Based_Training-Free_Cross-Domain_Image_Composition_ICCV_2023_paper.pdf) TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition, ICCV, 2023.  </br>
 
-### Learning methods in computer vision
+
+### Lecture 4: Learning methods visual intelligence 
 #### Knowledge transfer 
 [[Wang et al. 21]](https://arxiv.org/pdf/2004.05937v7.pdf) Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks, TPAMI, 2021. </br>
 [[Hiton et al. 15]](https://arxiv.org/pdf/1503.02531.pdf) Distilling the Knowledge in a Neural Network, NIPS Workshop, 2015. </br>
