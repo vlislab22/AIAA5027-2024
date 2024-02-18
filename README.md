@@ -36,7 +36,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 22/1 | Course introduction | Overview of visual intelligence |
 | 29/1 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics, and PyTorch tutorial  |
 | 29/1 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics, and PyTorch tutorial  |
-| 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |   |
+| 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |   | (delayed to 19/2 due to Chinese New Year)
 | 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |  (1) Quiz (2) Project meetings |
 | 19/2 | Learning methods in visual intelligence (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
 | 19/2 | Learning methods in visual intelligence ((Transfer learning, domain adaptation, self/semi-supervised learning)) | (1) Quiz (2) Presentation (2) Review due 18/2|
