@@ -136,7 +136,8 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Ho et al. 21]](https://arxiv.org/pdf/2106.15282.pdf) Cascaded Diffusion Models for High Fidelity Image Generation, Arxiv, 2021. </br>
 [[Nair et al. 23]](https://openaccess.thecvf.com/content/ICCV2023/papers/Nair_Steered_Diffusion_A_Generalized_Framework_for_Plug-and-Play_Conditional_Image_Synthesis_ICCV_2023_paper.pdf) Steered Diffusion: A Generalized Framework for Plug-and-Play Conditional Image Synthesis, ICCV, 2023.  </br>
 [[Lu et al. 23]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lu_TF-ICON_Diffusion-Based_Training-Free_Cross-Domain_Image_Composition_ICCV_2023_paper.pdf) TF-ICON: Diffusion-Based Training-Free Cross-Domain Image Composition, ICCV, 2023.  </br>
-
+[[Tang et al. 23]](https://arxiv.org/pdf/2305.11846.pdf) Any-to-Any Generation via Composable Diffusion, NeurIPS, 2023.  </br>
+[[Lyu et al. 23]](https://arxiv.org/abs/2401.17664) Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation, Arxiv, 2024.  </br>
 
 ### Lecture 4: Learning methods visual intelligence 
 #### Knowledge transfer 
