@@ -140,7 +140,7 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Lyu et al. 23]](https://arxiv.org/abs/2401.17664) Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation, Arxiv, 2024.  </br>
 
 ### Lecture 4: Learning methods visual intelligence 
-#### Knowledge transfer 
+#### Knowledge transfer (Instructor's list)
 [[Wang et al. 21]](https://arxiv.org/pdf/2004.05937v7.pdf) Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks, TPAMI, 2021. </br>
 [[Hiton et al. 15]](https://arxiv.org/pdf/1503.02531.pdf) Distilling the Knowledge in a Neural Network, NIPS Workshop, 2015. </br>
 [[Romero et al. 15]](https://arxiv.org/pdf/1412.6550.pdf) FitNets: Hints for Thin Deep Nets, ICLR, 2015. </br>
@@ -177,9 +177,16 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Shin et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720622.pdf) Teaching Where to Look: Attention Similarity Knowledge Distillation for Low Resolution Face Recognition, ECCV,2022.  </br>
 [[Deng et al. 22]](https://link.springer.com/chapter/10.1007/978-3-031-19830-4_16) Personalized Education: Blind Knowledge Distillation, ECCV,2022.  </br>
 [[Chen et al. 23]](https://openreview.net/pdf?id=8jU7wy7N7mA)  Supervision Complexity and its Role in Knowledge Distillation, ICLR, 2023.  </br>
+[[Klingner et al. 23]](https://arxiv.org/abs/2303.02203) X3KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection, CVPR, 2023.  </br>
+[[Klingner et al. 23]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a12779b5e802668df1cbc73fa00da62f-Paper-Conference.pdf) Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation, NeurIPS, 2023.  </br>
+------for vision language KD-----
+[[Tang et al. 23]](https://proceedings.neurips.cc/paper/2021/file/ccdf3864e2fa9089f9eca4fc7a48ea0a-Paper.pdf) VIDLANKD: Improving Language Understanding via Video-Distilled Knowledge Transfer, NeurIPS, 2021.  </br>
+[[Shen et al. 23]](https://arxiv.org/pdf/2204.09222.pdf) K-LITE: Learning Transferable Visual Models with External Knowledge, NeurIPS, 2022.  </br>
+[[Chen et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Enhanced_Multimodal_Representation_Learning_With_Cross-Modal_KD_CVPR_2023_paper.pdf) Compressing Visual-linguistic Model via Knowledge Distillation, CVPR, 2023.  </br>
+[[Chen et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Enhanced_Multimodal_Representation_Learning_With_Cross-Modal_KD_CVPR_2023_paper.pdf) Compressing Visual-linguistic Model via Knowledge Distillation, CVPR, 2023.  </br>
+[[Chen et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Pei_CLIPPING_Distilling_CLIP-Based_Models_With_a_Student_Base_for_Video-Language_CVPR_2023_paper.pdf) CLIPPING: Distilling CLIP-Based Models with a Student Base for Video-Language Retrieval, CVPR, 2023.  </br>
 
-
-#### Domain Adaptation
+#### Domain Adaptation (Instructor's list)
 [[Long et al. 15] ](https://arxiv.org/pdf/1502.02791.pdf)Learning Transferable Features with Deep Adaptation Networks, ICML, 2015. </br>
 [[Tzeng et al. 17]](https://arxiv.org/pdf/1702.05464.pdf) Adversarial Discriminative Domain Adaptation, CVPR, 2017. </br>
 [[Huang et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Haoshuo_Huang_Domain_transfer_through_ECCV_2018_paper.pdf) Domain Transfer Through Deep Activation Matching, ECCV, 2018. </br>
@@ -230,10 +237,13 @@ Discriminator-free Adversarial Domain Adaptation, ECCV, 2022.</br>
 [[Lin et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930345.pdf) Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation, ECCV, 2022.</br>
 [[Lin et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930520.pdf) Adversarial Partial Domain Adaptation by Cycle Inconsistency, ECCV, 2022.</br>
 [[Sun et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930628.pdf) Prior Knowledge Guided Unsupervised Domain Adaptationy, ECCV, 2022.</br>
+[[Zhu et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Patch-Mix_Transformer_for_Unsupervised_Domain_Adaptation_A_Game_Perspective_CVPR_2023_paper.pdf) Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective, CVPR, 2023.</br>
+[[Zhu et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Patch-Mix_Transformer_for_Unsupervised_Domain_Adaptation_A_Game_Perspective_CVPR_2023_paper.pdf) Patch-Mix Transformer for Unsupervised Domain Adaptation: A Game Perspective, CVPR, 2023.</br>
+[[Kim et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model, CVPR, 2023.</br>
+[[Kim et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model, CVPR, 2023.</br>
+[[Lai et al. 23]](https://openaccess.thecvf.com/content/ICCV2023/papers/Lai_PADCLIP_Pseudo-labeling_with_Adaptive_Debiasing_in_CLIP_for_Unsupervised_Domain_ICCV_2023_paper.pdf) PADCLIP: Pseudo-labeling with Adaptive Debiasing in CLIP for Unsupervised Domain Adaptation, CVPR, 2023.</br>
 
-
-
-#### Semi-supervised learning 
+#### Semi-supervised learning (Instructor's list)
 [[Sajjadi et al. 16]](https://arxiv.org/pdf/1606.04586.pdf) Regularization With Stochastic Transformations and Perturbations for Deep Semi-Supervised Learning, NIPS, 2016. </br>
 [[Laine et al. 17]](https://arxiv.org/pdf/1610.02242.pdf)  Temporal Ensembling for Semi-Supervised Learning，ICLR, 2017. </br>
 [[Tarvainen et al. 17]](https://arxiv.org/pdf/1703.01780.pdf) Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results, NIPS, 2017.  </br>
@@ -269,6 +279,11 @@ Effective Semi-Supervised Learning, ECCV, 2022. </br>
 [[Zheng et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_SimMatch_Semi-Supervised_Learning_With_Similarity_Matching_CVPR_2022_paper.pdf) SimMatch: Semi-supervised Learning with Similarity Matching, CVPR, 2022. </br>
 [[Fan et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_CoSSL_Co-Learning_of_Representation_and_Classifier_for_Imbalanced_Semi-Supervised_Learning_CVPR_2022_paper.pdf) CoSSL: Co-Learning of Representation and Classifier for Imbalanced Semi-Supervised Learning, CVPR, 2022. </br>
 [[Yang et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Class-Aware_Contrastive_Semi-Supervised_Learning_CVPR_2022_paper.pdf) Class-Aware Contrastive Semi-Supervised Learning, CVPR, 2022. </br>
+[[Zhao et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Augmentation_Matters_A_Simple-Yet-Effective_Approach_to_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf) Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation, CVPR, 2023. </br>
+[[Zhao et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Augmentation_Matters_A_Simple-Yet-Effective_Approach_to_Semi-Supervised_Semantic_Segmentation_CVPR_2023_paper.pdf) Augmentation Matters: A Simple-yet-Effective Approach to Semi-supervised Semantic Segmentation, CVPR, 2023. </br>
+[[Fan et al. 23]](https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_SSB_Simple_but_Strong_Baseline_for_Boosting_Performance_of_Open-Set_ICCV_2023_paper.pdf) SSB: Simple but Strong Baseline for Boosting Performance of
+Open-Set Semi-Supervised Learning, ICCV, 2023. </br>
+[[Wang et al. 23]](https://openreview.net/pdf?id=rVM8wD2G7Dy) IMBALANCED SEMI-SUPERVISED LEARNING WITH BIAS ADAPTIVE CLASSIFIER, ICLR, 2023. </br>
 
 ### Image restoration and enhancement 
 
