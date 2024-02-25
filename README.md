@@ -179,10 +179,11 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Chen et al. 23]](https://openreview.net/pdf?id=8jU7wy7N7mA)  Supervision Complexity and its Role in Knowledge Distillation, ICLR, 2023.  </br>
 [[Klingner et al. 23]](https://arxiv.org/abs/2303.02203) X3KD: Knowledge Distillation Across Modalities, Tasks and Stages for Multi-Camera 3D Object Detection, CVPR, 2023.  </br>
 [[Klingner et al. 23]](https://proceedings.neurips.cc/paper_files/paper/2023/file/a12779b5e802668df1cbc73fa00da62f-Paper-Conference.pdf) Augmentation-Free Dense Contrastive Knowledge Distillation for Efficient Semantic Segmentation, NeurIPS, 2023.  </br>
+
 ------for vision language KD-----
+
 [[Tang et al. 23]](https://proceedings.neurips.cc/paper/2021/file/ccdf3864e2fa9089f9eca4fc7a48ea0a-Paper.pdf) VIDLANKD: Improving Language Understanding via Video-Distilled Knowledge Transfer, NeurIPS, 2021.  </br>
 [[Shen et al. 23]](https://arxiv.org/pdf/2204.09222.pdf) K-LITE: Learning Transferable Visual Models with External Knowledge, NeurIPS, 2022.  </br>
-[[Chen et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Enhanced_Multimodal_Representation_Learning_With_Cross-Modal_KD_CVPR_2023_paper.pdf) Compressing Visual-linguistic Model via Knowledge Distillation, CVPR, 2023.  </br>
 [[Chen et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Enhanced_Multimodal_Representation_Learning_With_Cross-Modal_KD_CVPR_2023_paper.pdf) Compressing Visual-linguistic Model via Knowledge Distillation, CVPR, 2023.  </br>
 [[Chen et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Pei_CLIPPING_Distilling_CLIP-Based_Models_With_a_Student_Base_for_Video-Language_CVPR_2023_paper.pdf) CLIPPING: Distilling CLIP-Based Models with a Student Base for Video-Language Retrieval, CVPR, 2023.  </br>
 
