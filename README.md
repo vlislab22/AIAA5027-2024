@@ -36,31 +36,30 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 22/1 | Course introduction | Overview of visual intelligence |
 | 29/1 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics, and PyTorch tutorial  |
 | 29/1 | Deep learning basics | TAs’ lectures for DL basics, algorithm basics, and PyTorch tutorial  |
-| 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |   | (delayed to 19/2 due to Chinese New Year)
-| 5/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |  (1) Quiz (2) Project meetings |
-| 19/2 | Learning methods in visual intelligence (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
-| 19/2 | Learning methods in visual intelligence ((Transfer learning, domain adaptation, self/semi-supervised learning)) | (1) Quiz (2) Presentation (2) Review due 18/2|
-| 26/2  | Adversarial robustness in visual intelligence |   |
-| 26/2 | Adversarial robustness in visual intelligence |  (1) Quiz (2) Presentation (3) review due 25/2 |
-| 4/3  |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
-| 4/3 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  | (1) Quiz (2) Presentation (3) Review due 3/Mar (4) Project proposal kick-off (one-page) |
-| 11/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |   |
-| 11/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Quiz (2) Presentation (3) Review due 10/Mar |
-| 18/3 |Project mid-term presentation | |
-| 18/3 |Project mid-term presentation | |
-| 25/3 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 24/3 |
-| 25/3 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 24/3  |
-| 1/4 |Computer vision with novel cameras   |  |
-| 1/4 |Computer vision with novel cameras | (1) Review due 31/3 |
-| 8/4 | Machine learning for 3D Data (I) Introduction to multi-view geometry   | |
-| 8/4 | Machine learning for 3D Data  |(1) Quiz (2) Presentation (3) review due 7/4 |
-| 15/4 | Machine learning for 3D Data (II) - Introduction to 3D deep learning
-   |  |
-| 15/4 | Machine learning for 3D Data (II) - Implicit/hybrid neural representation | (1) Quiz (2) Presentation (3) review due 14/Apr |
-| 22/4 | Machine learning for 3D Data (III) - Neural rendering  |  |
-|  /4 | Machine learning for 3D Data (III) - Novel view synthesis  | (1)  Quiz  (2) Final project Q/A   
-| 29/4 |Project presentation and final paper submission |  |
-| 29/4 |Project presentation and final paper submission | Submission due 8/5  |
+| 19/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |   | (delayed to 19/2 due to Chinese New Year)
+| 19/2 | Generative models for visual intelligence (VAE, GAN, Diffusion models) |  (1) Quiz (2) Project meetings |
+| 26/2 | Learning methods in visual intelligence (Transfer learning, domain adaptation, self/semi-supervised learning) |   |
+| 26/2 | Learning methods in visual intelligence ((Transfer learning, domain adaptation, self/semi-supervised learning)) | (1) Quiz (2) Presentation (2) Review due 18/2|
+| 4/3  | Adversarial robustness in visual intelligence |   |
+| 4/3 | Adversarial robustness in visual intelligence |  (1) Quiz (2) Presentation (3) review due 25/2 |
+| 11/3  |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing |   |
+| 11/3 |Deep learning for image restoration and enhancement (I) deblurring, deraining, dehazing  | (1) Quiz (2) Presentation (3) Review due 3/Mar (4) Project proposal kick-off (one-page) |
+| 18/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |   |
+| 18/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Quiz (2) Presentation (3) Review due 10/Mar |
+| 25/3 |Project mid-term presentation | |
+| 25/3 |Project mid-term presentation | |
+| 1/4 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 24/3 |
+| 1/4 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 24/3  |
+| 8/4 |Computer vision with novel cameras   |  |
+| 8/4 |Computer vision with novel cameras | (1) Review due 31/3 |
+| 15/4 | Machine learning for 3D Data (I) Introduction to multi-view geometry   | |
+| 15/4 | Machine learning for 3D Data  |(1) Quiz (2) Presentation (3) review due 7/4 |
+| 22/4 | Machine learning for 3D Data (II) - Introduction to 3D deep learning|  |
+| 22/4 | Machine learning for 3D Data (II) - Implicit/hybrid neural representation | (1) Quiz (2) Presentation (3) review due 14/Apr |
+| 29/4 | Machine learning for 3D Data (III) - Neural rendering  |  |
+| 29/4 | Machine learning for 3D Data (III) - Novel view synthesis  | (1)  Quiz  (2) Final project Q/A   
+| 6/5 |Project presentation and final paper submission |  |
+| 6/5 |Project presentation and final paper submission | Submission due 13/5  |
 
 ---------------------------------------------------------------------------------
 ##  Reading list
