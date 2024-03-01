@@ -327,7 +327,8 @@ Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student 
 [[Schlarmann et al. 23]](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Schlarmann_On_the_Adversarial_Robustness_of_Multi-Modal_Foundation_Models_ICCVW_2023_paper.pdf)  On the Adversarial Robustness of Multi-Modal Foundation Models, ICCVW,2023. </br>
 [[Yin et al. 23]](https://openreview.net/pdf?id=qBAED3u1XZ)  VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models, ICLR,2023. </br>
 [[Zhao et al. 23]](https://openreview.net/pdf?id=qBAED3u1XZ)  On Evaluating Adversarial Robustness of Large Vision-Language Models, NeurIPS,2024. </br>
-**
+[[Zhang et al. 23]]([https://openreview.net/pdf?id=qBAED3u1XZ](https://dl.acm.org/doi/pdf/10.1145/3503161.3547801))  Towards Adversarial Attack on Vision-Language Pre-training Models, ACM MM,2023. </br>
+
 
 ### Image restoration and enhancement 
 
