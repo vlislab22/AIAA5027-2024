@@ -322,6 +322,7 @@ Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student 
  -->
  
 ---- Adversarial attack for LVMs---------
+
 [[Lu et al. 23]](https://openaccess.thecvf.com/content/ICCV2023/html/Lu_Set-level_Guidance_Attack_Boosting_Adversarial_Transferability_of_Vision-Language_Pre-training_Models_ICCV_2023_paper.html)  Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models, ICCV,2023. </br>
 [[Schlarmann et al. 23]](https://openaccess.thecvf.com/content/ICCV2023W/AROW/papers/Schlarmann_On_the_Adversarial_Robustness_of_Multi-Modal_Foundation_Models_ICCVW_2023_paper.pdf)  On the Adversarial Robustness of Multi-Modal Foundation Models, ICCVW,2023. </br>
 [[Yin et al. 23]](https://openreview.net/pdf?id=qBAED3u1XZ)  VLATTACK: Multimodal Adversarial Attacks on Vision-Language Tasks via Pre-trained Models, ICLR,2023. </br>
