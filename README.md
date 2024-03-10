@@ -398,7 +398,7 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Ye et al. 22]](https://arxiv.org/pdf/2203.11509.pdf)  Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity, CVPR, 2022. </br> 
 [[Chen et al. 22]](https://arxiv.org/pdf/2109.02973.pdf) Unpaired Deep Image Deraining Using Dual Contrastive Learning, CVPR, 2022. </br> 
 [[Chen et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.pdf) Learning A Sparse Transformer Network for Effective Image Deraining, CVPR, 2023. </br>
-[[Chen et al. 23]](https://openreview.net/pdf?id=t3vnnLeajU) CONTROLLING VISION-LANGUAGE MODELS FOR MULTI-TASK IMAGE RESTORATION, ICLR, 2024. </br> 
+[[Luo et al. 23]](https://openreview.net/pdf?id=t3vnnLeajU) CONTROLLING VISION-LANGUAGE MODELS FOR MULTI-TASK IMAGE RESTORATION, ICLR, 2024. </br> 
 
 
 ### Image dehazing (Instructor's list)
