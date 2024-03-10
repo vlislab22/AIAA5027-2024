@@ -331,7 +331,7 @@ Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student 
 [[Schlarmann et al. 23]]([https://arxiv.org/pdf/2402.12336.pdf))  Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models, ICML,2024. </br>
 
 
-### Image restoration and enhancement 
+### Lecture 6-- Image restoration and enhancement  (Instructor's list)
 
 #### Image Deblurring 
 [[Xu et al. 14]](https://papers.nips.cc/paper/2014/file/1c1d4df596d01da60385f0bb17a4a9e0-Paper.pdf) Deep Convolutional Neural Network for Image Deconvolution, NIPS, 2014. </br>
@@ -365,8 +365,10 @@ Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student 
 [[Li et al 22]](https://arxiv.org/pdf/2208.05244.pdf) Learning Degradation Representations for Image Deblurring, ECCV, 2022.  </br> 
 [[Tsai et al 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4651_ECCV_2022_paper.php) Stripformer: Strip Transformer for Fast Image Deblurring, ECCV, 2022.  </br> 
 [[Zhong et al 22]](https://arxiv.org/pdf/2207.10123.pdf)  Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance, ECCV, 2022. </br> 
+[[Ren et al. 23]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Multiscale_Structure_Guided_Diffusion_for_Image_Deblurring_ICCV_2023_paper.pdf) Multiscale Structure Guided Diffusion for Image Deblurring, ICCV, 2023. </br> 
+[[Chen et al. 23]](https://arxiv.org/pdf/2305.12966v1.pdf) Hierarchical Integration Diffusion Model for Realistic Image Deblurring, NeurIPS, 2023. </br> 
 
-#### Image deraining 
+#### Image deraining  (Instructor's list)
 [[Li et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Single_Image_Deraining_A_Comprehensive_Benchmark_Analysis_CVPR_2019_paper.pdf) Single Image Deraining: A Comprehensive Benchmark Analysis, CVPR, 2019. </br>
 [[Li  et al. 21]](https://link.springer.com/content/pdf/10.1007/s11263-020-01416-w.pdf) A Comprehensive Benchmark Analysis of Single Image Deraining:
 Current Challenges and Future Perspectives, IJCV, 2021.   </br> 
@@ -395,8 +397,11 @@ Current Challenges and Future Perspectives, IJCV, 2021.   </br>
 [[Ba et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670713.pdf)  Not Just Streaks: Towards Ground Truth for Single Image Deraining, ECCV, 2022. </br> 
 [[Ye et al. 22]](https://arxiv.org/pdf/2203.11509.pdf)  Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity, CVPR, 2022. </br> 
 [[Chen et al. 22]](https://arxiv.org/pdf/2109.02973.pdf) Unpaired Deep Image Deraining Using Dual Contrastive Learning, CVPR, 2022. </br> 
+[[Chen et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.pdf) Learning A Sparse Transformer Network for Effective Image Deraining, CVPR, 2023. </br>
+[[Chen et al. 23]](https://openreview.net/pdf?id=t3vnnLeajU) CONTROLLING VISION-LANGUAGE MODELS FOR MULTI-TASK IMAGE RESTORATION, ICLR, 2024. </br> 
 
-### Image dehazing
+
+### Image dehazing (Instructor's list)
 [[Gui et al. 21]](https://arxiv.org/pdf/2106.03323.pdf) A Comprehensive Survey on Image Dehazing Based on Deep Learning, IJCAI, 2021.  </br> 
 [[Cai et al. 16]](https://arxiv.org/pdf/1601.07661.pdf) DehazeNet: An End-to-End System for Single Image Haze Removal, IEEE, TIP, 2016. </br> 
 [[Ren et al. 20]](https://link.springer.com/content/pdf/10.1007/s11263-019-01235-8.pdf) Single Image Dehazing via Multi-scale Convolutional Neural Networks
@@ -424,10 +429,12 @@ with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) <
 [[Yi et al. 21]](https://arxiv.org/pdf/2102.03501.pdf)  Two-Step Image Dehazing with Intra-domain and Inter-domain Adaptation, Arxiv, 2021.</br> 
 [[Liu et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Towards_Multi-Domain_Single_Image_Dehazing_via_Test-Time_Training_CVPR_2022_paper.pdf)  Towards Multi-Domain Single Image Dehazing via Test-Time Training, CVPR, 2022. </br> 
 [[Yang et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Self-Augmented_Unpaired_Image_Dehazing_via_Density_and_Depth_Decomposition_CVPR_2022_paper.pdf) Self-augmented Unpaired Image Dehazing via Density and Depth Decomposition, CVPR, 2022. </br> 
-[[Chen et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770636.pdf) Unpaired Deep Image Dehazing Using
-Contrastive Disentanglement Learning, ECCV, 2022. </br> 
+[[Chen et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770636.pdf) Unpaired Deep Image Dehazing Using Contrastive Disentanglement Learning, ECCV, 2022. </br> 
+[[Song et al. 23]](https://dl.acm.org/doi/abs/10.1109/TIP.2023.3256763) Vision Transformers for Single Image Dehazing, EEE TIP, 2023. </br> 
 
-####  Image/Video Super-Resolution 
+
+
+####  Lecture 6-- Image/Video Super-Resolution (Instructor's list)
 [[Dong et al. 16]](https://arxiv.org/pdf/1501.00092.pdf) mage Super-Resolution Using Deep Convolutional Networks, ECCV,2016.(First deep learning-based method)  </br>
 [[Lim et al. 17]](https://arxiv.org/pdf/1707.02921.pdf) Enhanced Deep Residual Networks for Single Image Super-Resolution, CVPRW, 2017.  </br> 
 [[Wang et al. 19]](https://arxiv.org/pdf/1902.06068.pdf)  Deep Learning for Image Super-resolution: A Survey, IEEE TPAMI, 2021. </br> 
@@ -477,6 +484,8 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Xu et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Dual_Adversarial_Adaptation_for_Cross-Device_Real-World_Image_Super-Resolution_CVPR_2022_paper.pdf)  Dual Adversarial Adaptation for Cross-Device Real-World Image Super-Resolution, CVPR, 2022. </br> 
 [[Cao et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780318.pdf)  Reference-based Image Super-Resolution with Deformable Attention Transformer, ECCV, 2022. </br> 
 [[Li et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf)  MuLUT: Cooperating Multiple Look-Up Tables for Efficient Image Super-Resolution, ECCV, 2022. </br> 
+[[Gao et al. 22]](https://arxiv.org/pdf/2303.16491.pdf)  Implicit Diffusion Models for Continuous Super-Resolution, CVPR, 2023. </br> 
+
  
 #### Deep HDR imaging 
 
