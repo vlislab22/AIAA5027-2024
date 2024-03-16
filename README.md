@@ -432,8 +432,6 @@ with Holistic Edges, IJCV, 2020. (Extension of the conference version at 2016) <
 [[Chen et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770636.pdf) Unpaired Deep Image Dehazing Using Contrastive Disentanglement Learning, ECCV, 2022. </br> 
 [[Song et al. 23]](https://dl.acm.org/doi/abs/10.1109/TIP.2023.3256763) Vision Transformers for Single Image Dehazing, EEE TIP, 2023. </br> 
 
-
-
 ####  Lecture 6-- Image/Video Super-Resolution (Instructor's list)
 [[Dong et al. 16]](https://arxiv.org/pdf/1501.00092.pdf) mage Super-Resolution Using Deep Convolutional Networks, ECCV,2016.(First deep learning-based method)  </br>
 [[Lim et al. 17]](https://arxiv.org/pdf/1707.02921.pdf) Enhanced Deep Residual Networks for Single Image Super-Resolution, CVPRW, 2017.  </br> 
@@ -485,8 +483,12 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Cao et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780318.pdf)  Reference-based Image Super-Resolution with Deformable Attention Transformer, ECCV, 2022. </br> 
 [[Li et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780234.pdf)  MuLUT: Cooperating Multiple Look-Up Tables for Efficient Image Super-Resolution, ECCV, 2022. </br> 
 [[Gao et al. 22]](https://arxiv.org/pdf/2303.16491.pdf)  Implicit Diffusion Models for Continuous Super-Resolution, CVPR, 2023. </br> 
+[[Chen et al. 23]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Human_Guided_Ground-Truth_Generation_for_Realistic_Image_Super-Resolution_CVPR_2023_paper.pdf)  Human Guided Ground-truth Generation for Realistic Image Super-resolution, CVPR, 2023. </br> 
+[[Ma et al. 22]](http://simingchen.me/docs/mm22-sr.pdf)  Rethinking Super-Resolution as Text-Guided Details Generation, ACM MM, 2022. </br> 
+[[Chen et al. 24]](https://arxiv.org/pdf/2311.14282.pdf)  Image Super-Resolution with Text Prompt Diffusion, Arxiv, 2024. </br> 
 
- 
+
+
 #### Deep HDR imaging 
 
 [[Wang et al. 21]](https://arxiv.org/pdf/2110.10394.pdf)  Deep Learning for HDR Imaging:State-of-the-Art and Future Trends, IEEE TPAMI, 2021. </br> 
