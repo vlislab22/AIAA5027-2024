@@ -48,14 +48,14 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 | 18/3 |Deep learning for image restoration and enhancement (II) Image Super-resolution, HDR imaging |  (1) Quiz (2) Presentation (3) Review due 10/Mar |
 | 25/3 |Project mid-term presentation | |
 | 25/3 |Project mid-term presentation | |
-| 1/4 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 24/3 |
-| 1/4 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 24/3  |
-| 8/4 |Computer vision with novel cameras   |  |
-| 8/4 |Computer vision with novel cameras | (1) Review due 31/3 |
+| 1/4 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 31/3 |
+| 1/4 |Deep learning for scene understanding  Object detection & semantic segmentation  | (1) Review due 31/3 |
+| 8/4 |Computer vision with novel cameras | (1) Review due 7/4 |
+| 8/4 |Computer vision with novel cameras | (1) Review due 7/4 |
 | 15/4 | Machine learning for 3D Data (I) Introduction to multi-view geometry   | |
-| 15/4 | Machine learning for 3D Data  |(1) Quiz (2) Presentation (3) review due 7/4 |
+| 15/4 | Machine learning for 3D Data  |(1) Quiz (2) Presentation (3) review due 14/4 |
 | 22/4 | Machine learning for 3D Data (II) - Introduction to 3D deep learning|  |
-| 22/4 | Machine learning for 3D Data (II) - Implicit/hybrid neural representation | (1) Quiz (2) Presentation (3) review due 14/Apr |
+| 22/4 | Machine learning for 3D Data (II) - Implicit/hybrid neural representation | (1) Quiz (2) Presentation (3) review due 21/Apr |
 | 29/4 | Machine learning for 3D Data (III) - Neural rendering  |  |
 | 29/4 | Machine learning for 3D Data (III) - Novel view synthesis  | (1)  Quiz  (2) Final project Q/A   
 | 6/5 |Project presentation and final paper submission |  |
