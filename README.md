@@ -518,8 +518,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Vien et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf) Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging, ECCV, 2022.  </br> 
 
 
-
-### Object detection
+### Lecture 6-- Object detection and Segmentation  (Instructor's list)
 
 [[Wu et al. 20]](https://arxiv.org/pdf/1908.03673.pdf) Recent advances in deep learning for object detection, Neurocomputing, 2020. </br> 
 [[Girshick et al. 15]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) Fast R-CNN, ICCV, 2015.  </br> 
@@ -527,7 +526,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Ren et al. 15]](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)  Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, NIPS, 2016. </br> 
 [[Kong et al. 16]](https://zpascal.net/cvpr2016/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf)  HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection, CVPR, 2016.  </br> 
 [[He et al. 14]](https://arxiv.org/pdf/1406.4729.pdf) Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV, 2014. </br> 
-[[Cai et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf)  Cascade R-CNN: Delving into High Quality Object Detection, CVPR, 2018. </br> 
+[[Cai et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf)  Cascade R-CNN: Delving into High-Quality Object Detection, CVPR, 2018. </br> 
 [[Redmon et al. 16]](https://arxiv.org/pdf/1506.02640.pdf) You Only Look Once: Unified, Real-Time Object Detection, CVPR, 2016.  </br> 
 [[Liu et al. 16]](https://arxiv.org/pdf/1512.02325.pdf) SSD: Single Shot MultiBox Detector, ECCV, 2016. </br> 
 [[Lin et al. 18]](https://arxiv.org/pdf/1708.02002.pdf) Focal Loss for Dense Object Detection (RetinaNet), CVPR, 2018. </br> 
@@ -643,9 +642,13 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Peng et al. 22]](https://openaccess.thecvf.com/content/CVPR2022/papers/Peng_Semantic-Aware_Domain_Generalized_Segmentation_CVPR_2022_paper.pdf) Semantic-Aware Domain Generalized Segmentation, CVPR, 2022.  </br>
 [[Zhou et al. 22]](https://arxiv.org/pdf/2205.02833.pdf) Cross-view Transformers for real-time Map-view Semantic Segmentation, CVPR, 2022. </br>
 [[Wu et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890443.pdf) Dynamic Density-aware Active Domain Adaptation, ECCV, 2022. </br>
+[[Kirillov et al. 23]](https://arxiv.org/pdf/2304.02643.pdf) Segment Anything, ICCV, 2023. </br>
+[[Wu et al. 23]](https://openreview.net/pdf?id=GKau1ekOtH) SAM-CLIP: MERGING VISION FOUNDATION MODELS TOWARDS SEMANTIC AND SPATIAL UNDERSTANDING, Arxiv, 2023. </br>
+[[Li et al. 23]](https://arxiv.org/pdf/2307.04767.pdf) Semantic-SAM: Segment and Recognize Anything at Any Granularity, Arxiv, 2023. </br>
+[[Zhao et al. 23]](https://arxiv.org/pdf/2306.12156.pdf) Fast Segment Anything, Arxiv, 2023. </br>
 
 
- ### Depth and Motion Estimation in Vision 
+### Lecture 6-- Novel camera-based vision  (Instructor's list)
 #### Depth Estimation (Lecture notes)
 [[Ming et al. 21]](https://www-sciencedirect-com.lib.ezproxy.ust.hk/science/article/pii/S0925231220320014) Deep learning for monocular depth estimation: A review, Neurocomputing, 2021.  </br>
 [[Eigen et al.]](https://arxiv.org/pdf/1406.2283.pdf), “Depth Map Prediction from a Single Image using a Multi-Scale Deep Network”, NeurIPS, 2014. </br>
