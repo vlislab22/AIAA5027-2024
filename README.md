@@ -100,8 +100,7 @@ This is a task-oriented yet interaction-based course, which aims to scrutinize t
 [[Park et al. 20] ](https://arxiv.org/pdf/2007.15651.pdf) Contrastive Learning for Unpaired Image-to-Image Translation, ECCV 2020. </br> 
 [[Karras et al. 20]](https://arxiv.org/pdf/2006.06676.pdf) Training Generative Adversarial Networks with Limited Data, NeurIPS 2020. </br> 
 [[Xie et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650494.pdf) Self-Supervised CycleGAN for Object-Preserving Image-to-Image Domain Adaptation, ECCV 2020. </br>
-[[Mustafa et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630579.pdf) Transformation Consistency Regularization– A Semi-Supervised Paradigm for
-Image-to-Image Translation, ECCV 2020. </br>
+[[Mustafa et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630579.pdf) Transformation Consistency Regularization– A Semi-Supervised Paradigm for Image-to-Image Translation, ECCV 2020. </br>
 [[Li et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710647.pdf) Semantic Relation Preserving Knowledge Distillation for Image-to-Image Translation, ECCV, 2020.  </br>
 [[Xu et al. 21]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Linear_Semantics_in_Generative_Adversarial_Networks_CVPR_2021_paper.pdf) Linear Semantics in Generative Adversarial Networks, CVPR, 2021.  </br>
 [[Cao et al. 21]](https://arxiv.org/pdf/2103.16835.pdf) ReMix: Towards Image-to-Image Translation with Limited Data, CVPR 2021.  </br>
@@ -124,7 +123,6 @@ Image-to-Image Translation, ECCV 2020. </br>
 [[Kang et al. 23]](https://proceedings.mlr.press/v202/sauer23a/sauer23a.pdf) Scaling up gans for text-to-image synthesis Collapse, CVPR, 2023.  </br>
 
 #### Diffusion-based papers 
-
 [[Bao et al. 22]](https://arxiv.org/abs/2201.06503) "Analytic-DPM: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models, ICLR, 2022.  </br>
 [[Bao et al. 22]](https://arxiv.org/abs/2206.07309) Estimating the Optimal Covariance with Imperfect Mean in Diffusion Probabilistic Models, ICML 2022. </br>
 [[Dhariwal et al. 21]](https://arxiv.org/pdf/2105.05233.pdf) Diffusion Models Beat GANs on Image Synthesis, NIPS, 2021.   </br>
