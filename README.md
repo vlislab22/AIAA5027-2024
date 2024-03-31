@@ -518,7 +518,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Vien et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf) Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging, ECCV, 2022.  </br> 
 
 
-### Lecture 7-- Object detection and Segmentation  (Instructor's list)
+### Lecture 7-- Object Detection and Segmentation  (Instructor's list)
 
 [[Wu et al. 20]](https://arxiv.org/pdf/1908.03673.pdf) Recent advances in deep learning for object detection, Neurocomputing, 2020. </br> 
 [[Girshick et al. 15]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) Fast R-CNN, ICCV, 2015.  </br> 
@@ -561,6 +561,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Feng et al. 22]](https://arxiv.org/abs/2205.04072) Beyond Bounding Box: Multimodal Knowledge Learning for Object Detection, CVPR, 2022. </br> 
 [[Li et al. 22]](https://arxiv.org/abs/2111.13216) Cross-Domain Adaptive Teacher for Object Detection, CVPR, 2022. </br> 
 [[Yang et al. 22]](https://arxiv.org/abs/2111.11837) Focal and Global Knowledge Distillation for Detectors, CVPR, 2022. </br> 
+[[Wang et al. 24]](https://arxiv.org/abs/2402.13616) YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information, Arxiv, 2024. </br> [latest one]
 
 ---
 #### Face detection 
@@ -648,7 +649,7 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 [[Zhao et al. 23]](https://arxiv.org/pdf/2306.12156.pdf) Fast Segment Anything, Arxiv, 2023. </br>
 
 
-### Lecture 6-- Novel camera-based vision  (Instructor's list)
+### Lecture 8-- Novel camera-based vision  (Instructor's list)
 #### Depth Estimation (Lecture notes)
 [[Ming et al. 21]](https://www-sciencedirect-com.lib.ezproxy.ust.hk/science/article/pii/S0925231220320014) Deep learning for monocular depth estimation: A review, Neurocomputing, 2021.  </br>
 [[Eigen et al.]](https://arxiv.org/pdf/1406.2283.pdf), “Depth Map Prediction from a Single Image using a Multi-Scale Deep Network”, NeurIPS, 2014. </br>
