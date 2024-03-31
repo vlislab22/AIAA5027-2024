@@ -518,7 +518,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Vien et al. 22]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf) Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging, ECCV, 2022.  </br> 
 
 
-### Lecture 6-- Object detection and Segmentation  (Instructor's list)
+### Lecture 7-- Object detection and Segmentation  (Instructor's list)
 
 [[Wu et al. 20]](https://arxiv.org/pdf/1908.03673.pdf) Recent advances in deep learning for object detection, Neurocomputing, 2020. </br> 
 [[Girshick et al. 15]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) Fast R-CNN, ICCV, 2015.  </br> 
@@ -575,7 +575,7 @@ super-resolution with cascading residual network, ECCV, 2018. </br>
 [[Song et al. 21]](https://openaccess.thecvf.com/content/ICCV2021W/MFR/papers/Huang_Masked_Face_Recognition_Datasets_and_Validation_ICCVW_2021_paper.pdf)  Occlusion Robust Face Recognition Based on Mask Learning With Pairwise Differential Siamese Network, ICCV, 2021. </br> 
 [[Fabbri et al. 21]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fabbri_MOTSynth_How_Can_Synthetic_Data_Help_Pedestrian_Detection_and_Tracking_ICCV_2021_paper.pdf) MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?, ICCV, 2021.
 
-#### Pedestrain detection
+#### Pedestrian detection
 [[Wang et al. 18]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Repulsion_Loss_Detecting_CVPR_2018_paper.pdf)  Repulsion Loss: Detecting Pedestrians in a Crowd, CVPR, 2018.  </br> 
 [[Zhang et al. 18]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Shifeng_Zhang_Occlusion-aware_R-CNN_Detecting_ECCV_2018_paper.pdf)  Occlusion-aware R-CNN: Detecting Pedestrians in a Crowd, ECCV, 2018.  </br> 
 [[Liu et al. 19]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Adaptive_NMS_Refining_Pedestrian_Detection_in_a_Crowd_CVPR_2019_paper.pdf) Adaptive NMS: Refining Pedestrian Detection in a Crowd, CVPR, 2019.  </br> 
