@@ -650,6 +650,7 @@ Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic S
 ### Lecture 8-- Novel camera-based vision  (Instructor's list)
 
 ### Computer vision with novel camera sensors  (1)- Event-based vision
+
 [[Zhang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123630647.pdf)  Learning to See in the Dark with Events, ECCV, 2020.  </br>
 [[Rebacq et al. 19]](https://rpg.ifi.uzh.ch/docs/TPAMI19_Rebecq.pdf)  High Speed and High Dynamic Range Video with an Event Camera, IEEE TPAMI (CVPR), 2019.  </br>
 [[Wang et al. 20]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580154.pdf) Event Enhanced High-Quality Image Recovery, ECCV, 2020.  </br>
